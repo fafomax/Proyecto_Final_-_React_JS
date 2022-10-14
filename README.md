@@ -1,4 +1,4 @@
-# Proyecto_Final_-_React_JS
+# Proyecto Final - React JS
 
 ## 🎉   Llegaste al final del módulo de React JS. Felicitaciones!
 
